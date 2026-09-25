@@ -8,6 +8,8 @@ The project uses Multiple Linear Regression and provides an interactive Streamli
 
 ## 📌 Project Overview
 
+[Live Application / Demo](https://medical-insurance-cost-predicto.streamlit.app/)
+
 Medical insurance charges can vary depending on factors such as age, BMI, smoking status, number of children, gender, and geographical region.
 
 The goal of this project is to build a Machine Learning regression model that learns relationships between these features and historical insurance charges and then predicts an estimated insurance cost for a new individual.
